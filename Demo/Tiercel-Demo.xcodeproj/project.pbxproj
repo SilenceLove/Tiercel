@@ -366,14 +366,14 @@
 				CODE_SIGN_ENTITLEMENTS = "Demo/Tiercel-macOS-Demo/Tiercel_macOS_Demo.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = Y3437T5EGX;
+				DEVELOPMENT_TEAM = 36YN45CVLK;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Demo/Tiercel-macOS-Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Daniels.Tiercel-macOS-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -388,14 +388,14 @@
 				CODE_SIGN_ENTITLEMENTS = "Demo/Tiercel-macOS-Demo/Tiercel_macOS_Demo.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = Y3437T5EGX;
+				DEVELOPMENT_TEAM = 36YN45CVLK;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "Demo/Tiercel-macOS-Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Daniels.Tiercel-macOS-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
